@@ -1,16 +1,52 @@
-### Hi there 👋
+<h2 align="left">Ayo, Wanna tour my GitHub profile? ...I'll show you around ssupa-fast⚡</h2>
 
-<!--
-**kofi-k/kofi-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">See the guy in the circle thing on the side? That's <b>Kofi-K</b>, without the hypen. I'm a Computer Science student and I got mad madd love for Android development. ...And so! I put a clean Kotlin code and a bangin' UI with Jetpack Compose together to cook some lovely joubley android applications  and then throw them on here BUT they are not open source yet. And that's not even a tip of the iceberg.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+
+<h3 align="center">High five to connect!✋🏾</h3>
+
+###
+<div align='center' style="display: flex; flex-direction:column; flex-wrap: wrap; align-items: center;" >
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kofi-k-vincent-516778196) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/K_O_F_I) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/vincent.kofi.5492?_rdc=1&_rdr) 
+<!-- [![StackOverflow](https://img.shields.io/badge/StackOverflow-@eneskocerr-orange?style=flat&logo=stackoverflow)](https://twitter.com/K_O_F_I) -->
+
+</div>
+
+
+###
+
+<h3 align="center">💻Tech Stack</h3>
+
+###
+
+
+</div>
+<div align='center'>
+
+|                                              |                                              |
+|--------------------------------------------------------|----------------------------------------------------|
+| <div style="display: flex; align-items: center;"><div style="display: flex; gap: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  /><img width="10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  /></div></div> | <img align="right" height="200" src="https://private-user-images.githubusercontent.com/89961275/246519739-4902f902-3b46-417d-97b7-be0eaf178d0d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg2OTQ1MDM2LCJuYmYiOjE2ODY5NDQ3MzYsInBhdGgiOiIvODk5NjEyNzUvMjQ2NTE5NzM5LTQ5MDJmOTAyLTNiNDYtNDE3ZC05N2I3LWJlMGVhZjE3OGQwZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNjE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDYxNlQxOTQ1MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNjhlNGIyZjBiZjRmYWI4Y2M3NmI0MTI4NTMyZDNhYmRhNDM1NTM4MWFkMjRjZDgyNjMzZmE2OWU3YTY4NjFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hVRO-RaXdh3mr2Hr-iiYuZr-6aLrAH7kN7gVTptFQDQ" alt="image" /> |
+
+</div
+
+###
+<br/>
+
+<h3 align="center">Check out my GitHub Stats📊🔥</h3>
+<h2> </h2>
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=kofi-k&icon=0&color=0" alt="kofi-k :: Profile Stats"></a>
+</p>
+
+<div align="center">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=kofi-k&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
+  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-k&theme=radical&hide_border=false" style="margin-right: 10px;">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofi-k&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
+
+###
