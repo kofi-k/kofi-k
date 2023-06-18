@@ -43,7 +43,7 @@ Feel free to connect with me on GitHub to witness the magic unfold!
 ###
 <br/>
 
-<h3 align="center">Check out my GitHub Stats📊🔥</h3>
+<h3 align="center">GitHub Stats📊</h3>
 <h2> </h2>
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=kofi-k&icon=0&color=0" alt="kofi-k :: Profile Stats"></a>
