@@ -19,8 +19,7 @@ Feel free to connect with me on GitHub to witness the magic unfold!
 ###
 <div align='center' style="display: flex; flex-direction:column; flex-wrap: wrap; align-items: center;" >
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kofi-k-vincent-516778196) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/K_O_F_I) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/vincent.kofi.5492?_rdc=1&_rdr) 
-<!-- [![StackOverflow](https://img.shields.io/badge/StackOverflow-@eneskocerr-orange?style=flat&logo=stackoverflow)](https://twitter.com/K_O_F_I) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kofi-k-vincent-516778196) [![StackOverflow](https://img.shields.io/badge/StackOverflow-@kofik-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/22117063/kofi-k) [![Google](https://img.shields.io/badge/Google-Jetpack--Compose-blue?style=flat&logo=jetpackcompose)](https://g.dev/kofi) [![Figma](https://img.shields.io/badge/Figma-community-blue?style=flat&logo=figma)](https://www.figma.com/@kofi_k) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/K_O_F_I) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/vincent.kofi.5492?_rdc=1&_rdr)
 
 </div>
 
