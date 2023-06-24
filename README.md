@@ -50,8 +50,6 @@ Feel free to connect with me on GitHub to witness the magic unfold!
  [![](https://visitcount.itsvg.in/api?id=kofi-k&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
  
-
-
 <div align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=kofi-k&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
   <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-k&theme=radical&hide_border=false" style="margin-right: 10px;">
