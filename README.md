@@ -42,14 +42,7 @@ Feel free to connect with me on GitHub to witness the magic unfold!
 <br/>
 
 <h3 align="center">GitHub Stats📊</h3>
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=kofi-k&icon=0&color=0" alt="kofi-k :: Profile Stats"></a>
-</p>
-
- [![](https://visitcount.itsvg.in/api?id=kofi-k&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
- 
+ <h2> </h2>
 <div align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=kofi-k&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
   <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-k&theme=radical&hide_border=false" style="margin-right: 10px;">
