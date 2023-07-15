@@ -2,19 +2,17 @@
 
 ###
 
-<p>Ayo, hey there! 👋 I'm Kofi-K, a passionate Computer Science student with mad, madd love for Android development. I'm all about creating clean Kotlin code and slappin' UIs with Jetpack Compose. I put those two together and whip up lovely joubley Android applications, ready to dazzle the world. </p>
+<p>Ayo, hey there! 👋 I'm Kofi-K, a passionate Computer Science student and I got mad, madd love for Android development. I'm all about creating clean Kotlin code and slappin' UIs with Jetpack Compose. I put those two together and whip up lovely joubley Android applications, ready to dazzle the world. </p>
 
 <p> While my current projects may not be open source just yet, I'm constantly honing my skills and exploring new frontiers like React JS. And oh, you might catch me shouting in excitement when I'm engrossed in a thrilling chess match (that's if I'm winning).</p>
 
 <p>Join me on my journey of code, creativity, and continuous growth. Together, let's create Android wonders that leave a lasting impression. 🚀 </p>
 
-Feel free to connect with me on GitHub to witness the magic unfold!
-
 ###
 
 <h2> </h2>
 
-<h3 align="center">High five to connect!✋🏾</h3>
+<h3 align="center">You're welcome to connect!</h3>
 
 ###
 <div align='center' style="display: flex; flex-direction:column; flex-wrap: wrap; align-items: center;" >
