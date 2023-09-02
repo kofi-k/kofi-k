@@ -2,7 +2,7 @@
 
 ###
 
-<p>Ayo, hey there! 👋 I'm Kofi-K, a passionate Computer Science student and I got mad, madd love for Android development. I'm all about creating clean Kotlin code and slappin' UIs with Jetpack Compose. I put those two together and whip up lovely joubley Android applications, ready to dazzle the world. </p>
+<p>Ayo, hey there! 👋 I'm Kofi-K, I'm a Computer Science student and I got mad, madd love for Android development. I'm all about creating clean Kotlin code and slappin' UIs with Jetpack Compose. I put those two together and whip up lovely joubley Android applications. </p>
 
 <p> While my current projects may not be open source just yet, I'm constantly honing my skills and exploring new frontiers like React JS. And oh, you might catch me shouting in excitement when I'm engrossed in a thrilling chess match (that's if I'm winning).</p>
 
