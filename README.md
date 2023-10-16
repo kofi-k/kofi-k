@@ -2,9 +2,9 @@
 
 ###
 
-<p>Ayo, hey there! 👋 I'm Kofi-K, I'm a Computer Science student and I got mad, madd love for Android development. I'm all about good app architecture and slappin' UIs, I put these two together and whip up lovely joubley Android apps✨ </p>
+<p>Ayo, hey there! 👋 I'm Kofi-K, I'm a Computer Science student and I got mad, madd love for Android development. I'm all about good app architecture and slappin' UIs with Kotlin and Jetpack Compose, I put these two together and whip up lovely joubley Android apps✨ </p>
 
-<p> While my current projects may not be open source just yet, I'm constantly honing my skills and exploring new frontiers like React JS. And oh, you might catch me shouting in excitement when I'm engrossed in a thrilling chess match (that's if I'm winning).</p>
+<p> While my current projects may not be open source just yet, I'm constantly honing my skills and exploring new frontiers like React JS. And oh, I'm a vicious attacker on the chess board</p>
 
 <p>Join me on my journey of code, creativity, and continuous growth. Together, let's create Android wonders that leave a lasting impression. 🚀 </p>
 
