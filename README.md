@@ -1,12 +1,12 @@
-<h2 align="left">Introducing Kofi-K, the Android Maestro 🎩📱</h2>
+<h2 align="left">Hi, I'm Kofi-K</h2>
 
 ###
 
-<p>Ayo, hey there! 👋 I'm Kofi-K, I'm a Computer Science student and I got mad, madd love for Android development. I'm all about good app architecture and slappin' UIs with Kotlin and Jetpack Compose, I put these two together and whip up lovely joubley Android apps✨ </p>
+<p>Hi again, I'm still Kofi-K just in petite font. I'm a Computer Science student and I got mad, madd love for Android development. All I care about is good app architecture and slappin' UIs with Kotlin and Jetpack Compose, put these two together and whip up lovely joubley Android apps✨ </p>
 
-<p> While my current projects may not be open source just yet, I'm constantly honing my skills and exploring new frontiers like React JS. And oh, I'm a vicious attacker on the chess board</p>
+<p>Also, I'm currently exploring new frontiers and developing full stack web applications with React and ASP.NET.</p>
 
-<p>Join me on my journey of code, creativity, and continuous growth. Together, let's create Android wonders that leave a lasting impression. 🚀 </p>
+<p>I'm not so clean on Chess.com but you can try me.</p>
 
 ###
 
