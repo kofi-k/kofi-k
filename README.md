@@ -6,7 +6,6 @@
 
 <p>Also, I'm currently exploring new frontiers and developing full stack web applications with React and ASP.NET.</p>
 Go on and explore my first public web application at [freeatudemy](https://freeatudemy.com) where I share free courses available on Udemy
-[votestation.figma](https://www.figma.com/file/YLBG8PFimFjlF9Xgt4vgaO/PollStation?node-id=0%3A1&t=HJfKhMeHlTjKcXd8-1)
 
 <p>I like to spend some time playing chess, think hard on the board and still end up loosing anyways but you're welcome to try me on Chess.com</p>
 
