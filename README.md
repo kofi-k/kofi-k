@@ -4,8 +4,8 @@
 
 <p>Hi again, I'm still Kofi-K just in petite font. I'm a Computer Science student and I got mad, madd love for Android development. All I care about is good app architecture and slappin' UIs with Kotlin and Jetpack Compose, put these two together and whip up lovely joubley Android apps✨ </p>
 
-<p>Also, I'm currently exploring new frontiers and developing full stack web applications with React and ASP.NET.</p>
-Go on and explore my latest public web application at [https://freeatudemy.com] where I share free courses available on Udemy.
+<p>Also, I'm currently exploring new frontiers and developing full stack web applications with React and ASP.NET. <br/>
+Go on and explore my latest public web application at [https://freeatudemy.com] where I share free courses available on Udemy</p>
 
 <p>I like to spend some time playing chess, think hard on the board and still end up loosing anyways but you're welcome to try me on Chess.com</p>
 
