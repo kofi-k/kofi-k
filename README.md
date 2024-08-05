@@ -6,7 +6,7 @@
  
  <p> And oh like Salt Bae does it, I hit a pose &  sprinkle in subtle animations to give that delightful user experience.✨</p>
 
- <p>I find pleasure in playing chess, I'm like a chess prodigy in reverse—I think hard, play, and still lose regardless but hey, if you're up you try me on Chess.com</p>
+ <p>I find pleasure in playing chess, I'm like a chess prodigy but in reverse—I think hard, play, and still lose regardless 😒 but hey, if you're up you try me on Chess.com🫡</p>
 
 ###
 
