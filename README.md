@@ -2,18 +2,22 @@
 
 ###
 
-<p>Hi again, I'm still Kofi-K just in petite font. I'm a Computer Science student and I got mad, madd love for Android development. All I care about is good app architecture and slappin' UIs with Kotlin and Jetpack Compose, put these two together and whip up lovely joubley Android apps✨ </p>
+<p> I am a full-stack software developer and a student. I craft scalable and high performance applications(web & android) with strong focus on clean architecture for robustness and maintainability.</p>
+ 
+ <p> And oh like Salt Bae does it, I hit a pose &  sprinkle in subtle animations to give that delightful user experience.✨</p>
 
-<p>Also, I'm currently exploring new frontiers and developing full stack web applications with React and ASP.NET. <br/>
-
-Go on and explore my latest public web application [freeatudemy](https://freeatudemy.com/) where I share free courses available on Udemy. </p>
-
-<p>I like to spend some time playing chess, think hard on the board and still end up loosing anyways but you're welcome to try me on Chess.com</p>
+ <p>I find pleasure in playing chess, I'm like a chess prodigy in reverse—I think hard, play, and still lose regardless but hey, if you're up you try me on Chess.com</p>
 
 ###
 
+<h2> </h2>
+
+ Checkout [freeatudemy](https://freeatudemy.com/) I made this web app to share free courses available on Udemy.
 
 <h2> </h2>
+
+
+
 
 <h3 align="center">You're welcome to connect!</h3>
 
@@ -41,13 +45,5 @@ Go on and explore my latest public web application [freeatudemy](https://freeatu
 
 ###
 <br/>
-
-<h3 align="center">GitHub Stats📊</h3>
- <h2> </h2>
-<div align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=kofi-k&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-k&theme=radical&hide_border=false" style="margin-right: 10px;">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofi-k&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
 
 ###
