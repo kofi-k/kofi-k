@@ -10,6 +10,8 @@ Go on and explore my latest public web application at [freeatudemy](https://free
 <p>I like to spend some time playing chess, think hard on the board and still end up loosing anyways but you're welcome to try me on Chess.com</p>
 ###
 
+[kofi-k](https://kofik.github.io/kofi-k-profile-page/)
+
 <h2> </h2>
 
 <h3 align="center">You're welcome to connect!</h3>
