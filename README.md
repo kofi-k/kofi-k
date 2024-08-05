@@ -12,7 +12,7 @@
 
 <h2> </h2>
 
- Checkout [freeatudemy](https://freeatudemy.com/) I made this web app to share free courses available on Udemy.
+ Checkout [freeatudemy](https://freeatudemy.com/) I made this web app to share free courses available on Udemy. #skillup #learning
 
 <h2> </h2>
 
