@@ -1,9 +1,9 @@
 ![profile-bg-sm](https://github.com/user-attachments/assets/55ea728f-ff27-44f3-b1e2-840636084d1b)
 
 ##
- **Ahh Achooo!**
  * [freeatudemy](https://freeatudemy.com/) - `browse curated links to free Udemy courses ✨`
  * [kofi-k](https://kofik.me/) - `you don't wanna go there yet`
+ * [Resume](https://drive.google.com/file/d/1SR5px98JmitMX-hnFrIw9mjmgFgplBU2/view?usp=sharing) - `for the recruiters`
 
 ##
 
